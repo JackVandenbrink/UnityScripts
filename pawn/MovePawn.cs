@@ -8,7 +8,7 @@ public class MovePawn : MonoBehaviour {
 	public Transform viewpoint;
 
 	public float speed = 1f;
-	public float jumpPower = 1f;
+	public float jumpPower = 10f;
 	public float groundDist = 2f;
 
 
